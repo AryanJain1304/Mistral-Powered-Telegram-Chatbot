@@ -5,7 +5,7 @@ from aiogram.filters import Command
 import aiohttp
 import json
 
-API_TOKEN = '7857036500:AAE0YEaFQHh5HPitWHbazJv4bGx4KkjinrE'
+API_TOKEN = 'TELEGRAM_BOT_TOKEN'
 OLLAMA_URL = 'http://localhost:11434/api/chat'
 OLLAMA_MODEL = 'mistral'
 
